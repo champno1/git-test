@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"Version 0.2"<<endl;
+  cout<<"Version 0.3"<<endl;
   return 0;
 }
